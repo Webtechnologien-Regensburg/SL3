@@ -29,7 +29,7 @@ Implementieren Sie in dieser Aufgabe eine kleine Web-Anwendung, die mit Hilfe ei
 
 
 
-Es ist Ihre Aufgabe die Anzahl der COVID-19 Fälle der letzten zwei Wochen (01.06.20 bis 14.06.20) in Deutschland darzustellen, um einen Überblick über die Entwicklung der Erkrankung zu erhalten. Verwenden Sie die in der Vorlesung besprochene _Fetch API_ und die Bibliothek _Chart.js_, um die Daten anzufragen und anschließend zu visualisieren. Unter der URL https://regensburger-forscher.de/data/covid-stats.json können Sie die benötigten Daten herunterladen.
+Es ist Ihre Aufgabe die Anzahl der COVID-19 Fälle der letzten zwei Wochen (01.06.20 bis 14.06.20) in Deutschland darzustellen, um einen Überblick über die Entwicklung der Erkrankung zu erhalten. Sie können die in der Vorlesung besprochene _Fetch API_ und die Bibliothek _Chart.js_ verwenden, um die Daten anzufragen und anschließend zu visualisieren. Unter der URL https://regensburger-forscher.de/data/covid-stats.json können Sie die benötigten Daten herunterladen.
 
 
 
@@ -51,5 +51,5 @@ Der Name der Zip-Datei ergibt sich aus dem Präfix „SL_WT_SS20“, der Nr. der
 
  
 
-Beispiel: **SL_WT_SS20_2_Max_Mustermann.zip**
+Beispiel: **SL_WT_SS20_3_Max_Mustermann.zip**
 
