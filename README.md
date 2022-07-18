@@ -40,18 +40,24 @@ Beginnen Sie mit der Entwicklung in der '../resources/js/index.js' Datei. In der
 
 Beginnen Sie mit den folgenden Aufgaben nach dem Sie sich mit der Arbeitsumgebung vertraut gemacht haben. Gehen Sie dabei schrittweise vor und erstellen für jede Teilaufgabe ein neues Paar aus Query und Response. Orientierten Sie sich bei der Erstellung an dem mitgelieferten Beispiel.  
 
-	1. Erstellen Sie eine neue Tabelle mit dem Namen Personen in der der Datenbank die die folgenden Informationen abbilden soll: PersonenID, Nachname, Vorname, 		Adresse, Wohnort, Alter .
-		1.1 Achten Sie bei der Erstellung auf die Verwendung von korrekten Datentypen (char, varchar, binary, tinyblob,...). 
-		1.2 Begründen Sie einem kurzen Kommentar die Wahl Ihrer Datentypen. 
+1. Erstellen Sie eine neue Tabelle mit dem Namen 'Persons' in der der Datenbank die, die folgenden Informationen abbilden soll: PersonenID, Nachname, Vorname, 		Adresse, Wohnort, Alter .
+	1.1 Achten Sie bei der Erstellung auf die Verwendung von korrekten Datentypen (char, varchar, binary, tinyblob,...). 
+	1.2 Begründen Sie einem kurzen Kommentar die Wahl Ihrer Datentypen. 
 		
-	2. Erstellen Sie nun einen neuen Eintrag in der Personen Tabelle mit einem fiktiven Person.
+2. Erstellen Sie nun einen neuen Eintrag in der Persons Tabelle mit einem fiktiven Person die jünger als 50 Jahre ist.
 	
-	3. Geben Sie den gesamten Inhalt der Personen Tabelle via console.log aus. 
+3. Erstellen Sie eine Query um den gesamten Inhalt Persons Tabelle abzufragen. Geben Sie das Ergebnis der Abfrage in der Konsole aus.  
 	
-	4. Erstellen Sie 
+4. Erstellen Sie nun eine eigene Funktion zum Erstellen von neuen Einträgen in die Persons Tabelle
+	4.1 Definieren Sie die Datenbank, sowie den zu erstellenden Inhalt als Übergabeparameter. 
+	4.2 Erstellen Sie innerhalb der Funktion die SQL-Query aus den Übergabeparametern zusammen. 
+	4.3 Definieren Sie die Anfrage an die Datenbank innerhalb der Funktion. 
+	
+5. Nutzen Sie nun die Funktion zum Erstellen von neuen Einträge um zwei weitere fikitive Personen die beide älter als 50 Jahre sind, in Ihrer Datenbank zu hinterlegen. Sollten Sie bei Schritt 4. auf Probleme gestoßen sein, erstellen Sie die Benutzer wie in Schritt 2. 
 
+6. Aktualisieren Sie nun den Wohnort aller Personen die älter als 50 Jahre sind auf "Dresden". 
 
-
+7. Erstellen Sie nun eine zweite Tabelle die alle Wohnorte speichern soll. Normalisieren Sie die erstellen Tabellen nun soweit wie möglich. 
 
 
 
