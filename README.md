@@ -59,6 +59,8 @@ Beginnen Sie mit den folgenden Aufgaben nach dem Sie sich mit der Arbeitsumgebun
 
 7. Erstellen Sie nun eine zweite Tabelle die alle Wohnorte speichern soll. Normalisieren Sie die erstellen Tabellen nun soweit wie möglich. 
 
+8. Erstellen zuletzt eine komplexere Abfrage, die alle Personen die in Dresden wohnen in alphabetischer Reihenfolge erhält. Geben Sie das Ergebnis der Abfrage aus. Achten Sie darauf das die Abfrage über die Wohnort Tabelle selektiert und nicht über die WohnortID in der Wohnort Tabelle. 
+
 
 
 Die folgenden Links sollen Sie dabei unterstützen die Funktionalität zu implementieren:
