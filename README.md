@@ -38,6 +38,18 @@ Das Projekt beinhaltet bereits:
 
 Beginnen Sie mit der Entwicklung in der '../resources/js/index.js' Datei. In der 'index.js' initiiert die asychrone Funktion 'initDatabaseConnection' die Verbindung zur Datenbank. Das Datenbankobjekt wird dann in der Variable 'db' gesichert. Durch ein Aufruf der 'runQuery' Funktion können Queries an die Datenbank gesendet werden. Queries werden als String in der Variable 'query' deklariert und dann an 'runQuery' übergeben. Das Ergebnis der Query, falls es eines gibt, wird in der 'response' Variable gesichert. 
 
+Beginnen Sie mit den folgenden Aufgaben nach dem Sie sich mit der Arbeitsumgebung vertraut gemacht haben. Gehen Sie dabei schrittweise vor und erstellen für jede Teilaufgabe ein neues Paar aus Query und Response. Orientierten Sie sich bei der Erstellung an dem mitgelieferten Beispiel.  
+
+	1. Erstellen Sie eine neue Tabelle mit dem Namen Personen in der der Datenbank die die folgenden Informationen abbilden soll: PersonenID, Nachname, Vorname, 		Adresse, Wohnort, Alter .
+		1.1 Achten Sie bei der Erstellung auf die Verwendung von korrekten Datentypen (char, varchar, binary, tinyblob,...). 
+		1.2 Begründen Sie einem kurzen Kommentar die Wahl Ihrer Datentypen. 
+		
+	2. Erstellen Sie nun einen neuen Eintrag in der Personen Tabelle mit einem fiktiven Person.
+	
+	3. Geben Sie den gesamten Inhalt der Personen Tabelle via console.log aus. 
+	
+	4. Erstellen Sie 
+
 
 
 
@@ -45,8 +57,8 @@ Beginnen Sie mit der Entwicklung in der '../resources/js/index.js' Datei. In der
 
 Die folgenden Links sollen Sie dabei unterstützen die Funktionalität zu implementieren:
 
-- [\textcolor{blue}{Hier}](https://www.chartjs.org/) erfahren Sie mehr über Chart.js
-- [\textcolor{blue}{Hier}](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) lernen Sie die Grundlagen der Fetch API
+- [\textcolor{blue}{Hier}]([https://www.chartjs.org/](https://www.w3schools.com/sql/sql_create_db.asp)) erfahren Sie mehr über SQL
+- [\textcolor{blue}{Hier}]([https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API](https://www.sqlite.org/docs.html)) erfahren Sie mehr über SQlite
 
 
 ------
