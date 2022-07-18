@@ -28,12 +28,17 @@ header-includes: |
 In dieser Aufgabe sollen Sie die ersten Schritte im Umgang mit SQlite und JavaScript umsetzen und demonstrieren. 
 Für die Bearbeitung der Aufgabe stellen wir Ihnen ein Projekt zur Verfügung das bereits alle nötigen Elemente enthält. 
 Das Projekt beinhaltet bereits: 
+
 	- Eine eingebundene SQlite Datenbank 
+	
 	- Eine Node.Js Umgebung die eine Express App bereitstellt
+	
 	- Eine Möglichkeit Queries an die eingebundene Datenbank zu senden 
 	
 
-Beginnen Sie mit der Entwicklung in der '../resources/js/index.js' Datei. 
+Beginnen Sie mit der Entwicklung in der '../resources/js/index.js' Datei. In der 'index.js' initiiert die asychrone Funktion 'initDatabaseConnection' die Verbindung zur Datenbank. Das Datenbankobjekt wird dann in der Variable 'db' gesichert. Durch ein Aufruf der 'runQuery' Funktion können Queries an die Datenbank gesendet werden. Queries werden als String in der Variable 'query' deklariert und dann an 'runQuery' übergeben. Das Ergebnis der Query, falls es eines gibt, wird in der 'response' Variable gesichert. 
+
+
 
 
 
