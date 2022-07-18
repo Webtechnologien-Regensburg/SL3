@@ -43,13 +43,13 @@ Die folgenden Links sollen Sie dabei unterstützen die Funktionalität zu implem
 
 *Abgabekriterien:*
 
-Laden Sie Ihre Lösung bis spätestens 5.7.2020 (23:59 Uhr) als zip-komprimierten Ordner auf GRIPS hoch.  Benennen Sie die einzelnen Dateien pro Aufgabe sinnvoll und verwenden Sie geeignete Formate:
+Laden Sie Ihre Lösung bis spätestens 26.7.2022 (23:59 Uhr) als zip-komprimierten Ordner auf GRIPS hoch.  Benennen Sie die einzelnen Dateien pro Aufgabe sinnvoll und verwenden Sie geeignete Formate:
 
 - Aufgabe: Das gesamte Projekt (HTML, JS, CSS)
 
-Der Name der Zip-Datei ergibt sich aus dem Präfix „SL_WT_SS20“, der Nr. der Studienleistung, ihrem Vor- und Nachnamen jeweils getrennt durch _ .
+Der Name der Zip-Datei ergibt sich aus dem Präfix „SL_WT_SS22“, der Nr. der Studienleistung, ihrem Vor- und Nachnamen jeweils getrennt durch _ .
 
  
 
-Beispiel: **SL_WT_SS20_3_Max_Mustermann.zip**
+Beispiel: **SL_WT_SS22_3_Max_Mustermann.zip**
 
