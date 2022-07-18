@@ -51,8 +51,11 @@ Beginnen Sie mit den folgenden Aufgaben nach dem Sie sich mit der Arbeitsumgebun
 3. Erstellen Sie eine Query (SELECT) um den gesamten Inhalt Persons Tabelle abzufragen. Geben Sie das Ergebnis der Abfrage in der Konsole aus.  
 	
 4. Erstellen Sie nun eine eigene Funktion zum Erstellen von neuen Einträgen in die Persons Tabelle
+
 	4.1 Definieren Sie die Datenbank, sowie den zu erstellenden Inhalt als Übergabeparameter. 
+	
 	4.2 Erstellen Sie innerhalb der Funktion die SQL-Query aus den Übergabeparametern zusammen. 
+	
 	4.3 Definieren Sie die Anfrage an die Datenbank innerhalb der Funktion. 
 	
 5. Nutzen Sie nun die Funktion zum Erstellen von neuen Einträge um zwei weitere fikitive Personen die beide älter als 50 Jahre sind, in Ihrer Datenbank zu hinterlegen. Sollten Sie bei Schritt 4. auf Probleme gestoßen sein, erstellen Sie die Benutzer wie in Schritt 2. 
