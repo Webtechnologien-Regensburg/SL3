@@ -25,11 +25,7 @@ header-includes: |
 
 ## Aufgabe: Erste Schritte mit SQlite in JavaScript 
 
-Implementieren Sie in dieser Aufgabe eine kleine Web-Anwendung, die mit Hilfe eines AJAX-Requests eine JSON-formatierte Datei herunterlädt und anschließend aufbereitet in einem Diagramm darstellt.
-
-
-
-Es ist Ihre Aufgabe die Anzahl der COVID-19 Fälle der letzten zwei Wochen (01.06.20 bis 14.06.20) in Deutschland darzustellen, um einen Überblick über die Entwicklung der Erkrankung zu erhalten. Sie können die in der Vorlesung besprochene _Fetch API_ und die Bibliothek _Chart.js_ verwenden, um die Daten anzufragen und anschließend zu visualisieren. Unter der URL https://regensburger-forscher.de/data/covid-stats.json können Sie die benötigten Daten herunterladen.
+In dieser Aufgabe sollen Sie die ersten Schritte im Umgang mit SQlite und JavaScript umsetzen und demonstrieren. 
 
 
 
