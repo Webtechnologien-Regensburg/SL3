@@ -43,6 +43,7 @@ Beginnen Sie mit den folgenden Aufgaben nach dem Sie sich mit der Arbeitsumgebun
 1. Erstellen Sie eine neue Tabelle (CREATE) mit dem Namen 'Persons' in der Datenbank die, die folgenden Informationen abbilden soll: PersonenID, Nachname, Vorname, 		Adresse, Wohnort, Alter .
 
 	1.1 Achten Sie bei der Erstellung auf die Verwendung von korrekten Datentypen (char, varchar, binary, tinyblob,...). 
+	
 	1.2 Begründen Sie einem kurzen Kommentar die Wahl Ihrer Datentypen. 
 		
 2. Erstellen Sie nun einen neuen Eintrag (INSERT) in der Persons Tabelle mit einem fiktiven Person die jünger als 50 Jahre ist.
