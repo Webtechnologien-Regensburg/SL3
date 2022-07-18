@@ -1,6 +1,6 @@
 ---
 title: Studienleistung 3
-author: Martin Kocur
+author: David Halbhuber
 documentclass: scrartcl
 classoption:
   - a4paper
