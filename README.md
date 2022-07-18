@@ -23,7 +23,7 @@ header-includes: |
 
 
 
-## Aufgabe: Visualisierung von Daten
+## Aufgabe: Erste Schritte mit SQlite in JavaScript 
 
 Implementieren Sie in dieser Aufgabe eine kleine Web-Anwendung, die mit Hilfe eines AJAX-Requests eine JSON-formatierte Datei herunterlädt und anschließend aufbereitet in einem Diagramm darstellt.
 
