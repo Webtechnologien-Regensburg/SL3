@@ -26,6 +26,15 @@ header-includes: |
 ## Aufgabe: Erste Schritte mit SQlite in JavaScript 
 
 In dieser Aufgabe sollen Sie die ersten Schritte im Umgang mit SQlite und JavaScript umsetzen und demonstrieren. 
+Für die Bearbeitung der Aufgabe stellen wir Ihnen ein Projekt zur Verfügung das bereits alle nötigen Elemente enthält. 
+Das Projekt beinhaltet bereits: 
+	- Eine eingebundene SQlite Datenbank 
+	- Eine Node.Js Umgebung die eine Express App bereitstellt
+	- Eine Möglichkeit Queries an die eingebundene Datenbank zu senden 
+	
+
+Beginnen Sie mit der Entwicklung in der '../resources/js/index.js' Datei. 
+
 
 
 
