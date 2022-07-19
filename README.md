@@ -67,6 +67,8 @@ Beginnen Sie mit den folgenden Aufgaben nach dem Sie sich mit der Arbeitsumgebun
 8. Erstellen zuletzt eine komplexere Abfrage, die alle Personen die in Dresden wohnen in alphabetischer Reihenfolge erhält (SELECT). Geben Sie das Ergebnis der Abfrage aus. Achten Sie darauf das die Abfrage über die Wohnort Tabelle selektiert und nicht über die WohnortID in der Wohnort Tabelle. 
 
 
+Beachten Sie, dass die Anwendung Node.js verwendet. Analog zur App die wir in der Übung entwickelt haben, muss das Projekt daher via 'node index.js' und das Terminal oder dem integrierten NPM Skript gestartet werden. 
+
 
 Die folgenden Links sollen Sie dabei unterstützen die Funktionalität zu implementieren:
 
