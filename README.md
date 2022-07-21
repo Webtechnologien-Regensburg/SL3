@@ -40,7 +40,7 @@ Beginnen Sie mit der Entwicklung in der '../resources/js/index.js' Datei. In der
 
 Beginnen Sie mit den folgenden Aufgaben nach dem Sie sich mit der Arbeitsumgebung vertraut gemacht haben. Gehen Sie dabei schrittweise vor und erstellen für jede Teilaufgabe ein neues Paar aus Query und Response. Orientierten Sie sich bei der Erstellung an dem mitgelieferten Beispiel.  
 
-1. Erstellen Sie eine neue Tabelle (CREATE) mit dem Namen 'Persons' in der Datenbank die, die folgenden Informationen abbilden soll: PersonenID, Nachname, Vorname, 		Adresse, Wohnort, Alter .
+1. Erstellen Sie eine neue Tabelle (CREATE) mit dem Namen 'Persons' in der Datenbank die, die folgenden Informationen abbilden soll: PersonenID, Nachname, Vorname, 		Adresse, Wohnort, AlterInJahren .
 
 	1.1 Achten Sie bei der Erstellung auf die Verwendung von korrekten Datentypen (char, varchar, binary, tinyblob,...). 
 	
